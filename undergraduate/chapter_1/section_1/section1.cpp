@@ -4,13 +4,13 @@
 //
 #include <iostream>
 using namespace std; // 命名空间
-int main(int argc, const char * argv[]) {
+int main() {
     int oneInt1, oneInt2;
     char  strArray[20];
     string str;
     double oneDouble;
     char oneChar = 'a';
-    cout << "输入两个整数，一个字符，和一个字符串和一个浮点数，";
+    cout << "输入两个数字，一个字符，和一个字符串和一个浮点数，";
     cout << "以空格、Tab键或(Enter)键分割;" << endl;
     cin >> oneInt1 >> oneInt2 >> oneChar >> strArray >> oneDouble;
     str = strArray;
