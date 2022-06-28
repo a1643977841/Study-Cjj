@@ -26,19 +26,19 @@ c++
      ├── section_4 -- 第四节 标识符的作用域与可见性
           └── scope.cpp -- 标识符的作用域与可见性  
      └── practice -- 练习
-          ├── practice1.cpp 练习1
-          ├── practice2.cpp 练习2
-          ├── practice3.cpp 练习3
-          └── practice4.cpp 练习4
+          ├── practice2_1.cpp 练习1
+          ├── practice2_2.cpp 练习2
+          ├── practice2_3.cpp 练习3
+          └── practice2_4.cpp 练习4
 ├── chapter_3 -- 第二章 类和对象进阶
-     ├── section_1 -- 第一节 构造函数
+     ├── section3_1 -- 第一节 构造函数
           ├── A.cpp -- 简单的构造函数和析构函数 
           └── Student.cpp -- 对象数组使用默认构造函数初始化
-     └── section_2 -- 第二节 
-          └── Student.cpp -- 
-     └── section_3 -- 第三节 
-          └── visit.cpp --     
-     └── section_4 -- 第四节 
+     └── section3_2 -- 第二节 析构函数
+          └── Samp.cpp -- 析构函数 p107程序填充 
+     └── section3_3 -- 第三节 类的静态成员
+          └── Static.cpp -- 自动变量和静态变量的定义和使用 
+     └── section3_4 -- 第四节 
           └── scope.cpp --   
 ├── chapter_4 -- 第二章
 ├── chapter_5 -- 第二章
