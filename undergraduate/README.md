@@ -37,9 +37,17 @@ c++
      └── section3_2 -- 第二节 析构函数
           └── Samp.cpp -- 析构函数 p107程序填充 
      └── section3_3 -- 第三节 类的静态成员
-          └── Static.cpp -- 自动变量和静态变量的定义和使用 
+          ├── Static.cpp -- 自动变量和静态变量的定义和使用
+          └── ClassA.cpp -- 静态成员的使用
      └── section3_4 -- 第四节 
-          └── scope.cpp --   
+          ├── Text3_5.cpp -- 变量生存期和作用域
+          ├── Text3_6.cpp -- 变量生存期和作用域2
+          ├── Text3_5.cpp -- 变量生存期和作用域
+          ├── Text3_5.cpp -- 变量生存期和作用域
+          ├── Text3_5.cpp -- 变量生存期和作用域
+          ├── Text3_5.cpp -- 变量生存期和作用域
+          ├── Text3_5.cpp -- 变量生存期和作用域
+          └── ClassA.cpp -- 变量生存期和作用域2
 ├── chapter_4 -- 第二章
 ├── chapter_5 -- 第二章
 ├── chapter_6 -- 第二章
