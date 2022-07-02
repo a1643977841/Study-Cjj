@@ -39,16 +39,46 @@ c++
      └── section3_3 -- 第三节 类的静态成员
           ├── Static.cpp -- 自动变量和静态变量的定义和使用
           └── ClassA.cpp -- 静态成员的使用
-     └── section3_4 -- 第四节 
-          ├── Text3_5.cpp -- 变量生存期和作用域
-          ├── Text3_6.cpp -- 变量生存期和作用域2
-          ├── Text3_5.cpp -- 变量生存期和作用域
-          ├── Text3_5.cpp -- 变量生存期和作用域
-          ├── Text3_5.cpp -- 变量生存期和作用域
-          ├── Text3_5.cpp -- 变量生存期和作用域
-          ├── Text3_5.cpp -- 变量生存期和作用域
-          └── ClassA.cpp -- 变量生存期和作用域2
-├── chapter_4 -- 第二章
+     └── section3_4 -- 第四节 变量及对象的生存期和作用域
+          ├── Test3_4_1.cpp -- 变量生存期和作用域
+          └── Test3_4_2.cpp -- 变量生存期和作用域2
+     └── section3_5 -- 第五节 常量成员和常引用成员
+          ├── Simple3_5_1.cpp -- 调用常量成员与普通成员函数(P119)
+          └── ConstClass3_5_2.cpp -- 常量成员变量及变量成员函数的使用(P121)
+     └── section3_6 -- 第六节 成员对象和封闭类
+          ├── CType3_6_1.cpp -- 封闭类的定义(P124)
+          └── CType3_6_2.cpp -- 封闭类对象的创建和消亡
+     └── section3_7 -- 第七节 友元
+          ├── Pixel3_7_1.cpp --  友元函数的声明
+          ├── MyComplex3_7_2.cpp -- 类成员函数实现复数类操作
+          ├── MyComplex3_7_3.cpp -- 友元函数实现复数类操作
+          └── MyComplex3_7_4.cpp -- 友元类
+     └── section3_8 -- 第八节 this指针
+          └── MyComplex3_8_1.cpp -- this的使用
+├── chapter_4 -- 第四章
+     ├── section4_1 第一节 运算符重载的概念
+          ├── MyComplex4_1_1.cpp 为类重载运算符"+" 和 "-"
+          └── MyComplex4_1_2.cpp 重载为友元函数
+     ├── section4_2 第二节 重载赋值运算符
+          ├── MyComplex4_2_1.cpp 重载赋值运算符
+          ├── Pointer4_2_2.cpp 浅拷贝
+          └── Pointer4_2_3.cpp 深拷贝 
+     ├── section4_3 第三节 重载流插入运算符和流提取符
+          ├── MyComplex4_3_1.cpp 流插入运算符和流提取运算符重载为友元
+          └── MyComplex4_3_2.cpp 流插入运算符和流提取运算符重载为成员函数
+     ├── section4_1
+          ├──
+          └──
+     ├── section4_1
+          ├──
+          └──
+     ├── section4_1
+          ├──
+          └──
+     ├── section4_1
+          ├──
+          └──
+     └── section4_1
 ├── chapter_5 -- 第二章
 ├── chapter_6 -- 第二章
 ├── chapter_7 -- 第二章
