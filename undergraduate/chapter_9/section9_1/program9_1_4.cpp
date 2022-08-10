@@ -28,7 +28,7 @@ ostream &operator<<(ostream &os, const myDate &c) {
     return os;
 }
 template <class T1, class T2>
-void print(T1 arg1, T2 arg2) { 3
+void print(T1 arg1, T2 arg2) {
     cout << arg1 << " , " << arg2 << endl;
 }
 template <class T>
